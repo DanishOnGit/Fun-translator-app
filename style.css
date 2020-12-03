@@ -59,7 +59,7 @@
     padding: 1rem;
 }
 
-@media only screen and (max-width:500px){
+@media only screen and (max-width:600px){
     .navheading{
         font-size: 1.5rem;
     }
