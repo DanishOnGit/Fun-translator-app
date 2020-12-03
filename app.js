@@ -1,7 +1,9 @@
 var inputText= document.querySelector("#input");
 var translateBtn=document.querySelector("#btn");
 var outputDiv=document.querySelector("#output");
-var serverUrl= "https://api.funtranslations.com/translate/ferb-latin.json";
+var serverUrl= "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
+// "https://api.funtranslations.com/translate/ferb-latin.json";
+
 
 function getTranslationUrl(text){
     return serverUrl+"?"+"text="+text
