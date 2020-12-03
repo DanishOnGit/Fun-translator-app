@@ -73,14 +73,14 @@
     padding: 1rem;
 }
 
-@media only screen and (max-width:500px){
+@media only screen and (max-width:700px){
     .navheading{
         font-size: 1.5rem;
     }
     .intro ,.direction{
         font-size: 1rem;
     }
-    .bgimg{
+    .bgimg img{
         height:  400px;
         max-width: 400px;
     }
