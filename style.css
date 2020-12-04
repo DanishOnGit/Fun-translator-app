@@ -24,6 +24,7 @@
     overflow: hidden;
     background-color: var(--primary-color);
     border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem ;
     
 }
 .navheading {
@@ -60,7 +61,8 @@
     border-radius: 1rem;
     border: none;
     background-color: var(--primary-color);
-    color: white;
+    color: pink;
+   
     
 }
 #output{
